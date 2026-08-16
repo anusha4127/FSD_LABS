@@ -1,0 +1,12 @@
+import chalk from 'chalk';
+global.message = "Welcome to Node.js programm";
+console.log(chalk.red("Welcome to full stack development Lab"));
+console.log(chalk.green("Current working directory"));
+console.log(process.cwd());
+console.log(chalk.blue("\n Node.js version"));
+console.log(process.version);
+console.log(chalk.yellow("\n Operating System"));
+console.log(process.platform);
+console.log(chalk.blueBright("\n Global Message"));
+console.log(global.message);
+console.log(chalk.greenBright("\n Program executed succesfully"));
