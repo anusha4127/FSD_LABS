@@ -1,0 +1,4 @@
+Welcome to Node.js streams.
+Streams allow data to be processed in chunks
+Readable streams are used to read data
+Writable streams streams are used to write data

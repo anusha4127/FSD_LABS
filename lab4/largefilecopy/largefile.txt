@@ -1,0 +1,20 @@
+This is a large file.
+Node.js streams process large files.
+The file is read and copied in chunks.
+Streams reduce memory consumption.
+This is a large file.
+Node.js streams process large files.
+The file is read and copied in chunks.
+Streams reduce memory consumption.
+This is a large file.
+Node.js streams process large files.
+The file is read and copied in chunks.
+Streams reduce memory consumption.
+This is a large file.
+Node.js streams process large files.
+The file is read and copied in chunks.
+Streams reduce memory consumption.
+This is a large file.
+Node.js streams process large files.
+The file is read and copied in chunks.
+Streams reduce memory consumption.
